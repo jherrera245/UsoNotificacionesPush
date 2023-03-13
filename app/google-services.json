@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838040933505",
+    "project_id": "usonotificacionespush",
+    "storage_bucket": "usonotificacionespush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838040933505:android:928141a44aa7a6da30e980",
+        "android_client_info": {
+          "package_name": "com.jherrera.usonotificacionespush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838040933505-5t1721gca8iingehd398b2e18ll4mtkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKjdkcWmCCYnnma-AFDP-CNabqjLXe5uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838040933505-5t1721gca8iingehd398b2e18ll4mtkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
